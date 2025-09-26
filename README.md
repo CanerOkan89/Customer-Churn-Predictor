@@ -25,11 +25,13 @@ Analyze customer churn behavior to identify at-risk customers and develop data-d
 - Advanced SQL queries with JOINs and window functions
 - Customer segmentation and revenue analysis
 
-## Technologies Used
-- Python (pandas, scikit-learn, matplotlib, seaborn)
-- PostgreSQL & DBeaver
-- Jupyter Notebooks
-- Machine Learning (Gradient Boosting, Random Forest, Logistic Regression)
+## Strategic Impact
+
+### Targeted Retention Marketing
+Accurate churn prediction enables smarter resource allocation. Instead of broad, high-cost marketing campaigns, the model allows for targeted retention efforts focused on customers most likely to leave.
+This means promotional offers, personalized outreach, or service enhancements can be directed where they have the highest likelihood of impact.
+
+By identifying churn-prone segments with precision, the business can reduce unnecessary cost and potentially recover significant revenue—estimated at over $875,000 annually—through proactive retention strategies.
 
 ## Business Recommendations
 
@@ -37,7 +39,15 @@ Analyze customer churn behavior to identify at-risk customers and develop data-d
 2. Develop incentive programs for annual contract conversion
 3. Implement ML-based early warning system for high-risk accounts
 
+## Technologies Used
+
+- Python (pandas, scikit-learn, matplotlib, seaborn)
+- PostgreSQL & DBeaver
+- Jupyter Notebooks
+- Machine Learning (Gradient Boosting, Random Forest, Logistic Regression)
+
 ## Files
+
 - `data_exploration.ipynb` - Complete data analysis and ML modeling
 - `sql_queries.sql` - Database schema and analytical queries
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` - Dataset
