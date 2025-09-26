@@ -6,6 +6,9 @@ A comprehensive data analysis project identifying customer churn patterns and qu
 
 Analyze customer churn behavior to identify at-risk customers and develop data-driven retention strategies for a telecommunications company.
 
+![Description](images/1.png)
+![Description](images/2.png)
+
 ## Key Findings
 
 - **Contract type is the primary churn predictor** (40.1% feature importance)
