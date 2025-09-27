@@ -4,7 +4,7 @@ A comprehensive data analysis project identifying customer churn patterns and qu
 
 ## Problem Statement
 
-Analyze customer churn behavior to identify at-risk customers and develop data-driven retention strategies for a telecommunications company.
+Analyze customer churn behavior to identify at risk customers and develop data-driven retention strategies for a telecommunications company.
 
 ![Description](images/1.png)
 ![Description](images/2.png)
@@ -34,7 +34,7 @@ Analyze customer churn behavior to identify at-risk customers and develop data-d
 Accurate churn prediction enables smarter resource allocation. Instead of broad, high-cost marketing campaigns, the model allows for targeted retention efforts focused on customers most likely to leave.
 This means promotional offers, personalized outreach, or service enhancements can be directed where they have the highest likelihood of impact.
 
-By identifying churn-prone segments with precision, the business can reduce unnecessary cost and potentially recover significant revenue—estimated at over $875,000 annually—through proactive retention strategies.
+By identifying churn prone segments with precision, the business can reduce unnecessary cost and potentially recover significant revenue estimated at over $875,000 annually through proactive retention strategies.
 
 ## Business Recommendations
 
